@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Tipue Search Live Mode Demo</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+
+<link rel="stylesheet" href="../../inc/normalize.css">
+<link rel="stylesheet" href="../../inc/simplegrid.css">
+<link rel="stylesheet" href="../../inc/standard.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+<script type="text/javascript" src="tipuesearch/tipuesearch_set.js"></script>
+<link rel="stylesheet" type="text/css" href="tipuesearch/tipuesearch.css">
+<script type="text/javascript" src="tipuesearch/tipuesearch.js"></script>
+
+</head><body>
+
+
+<!-- head -->
+
+
+<div id="head">
+<div style="float: left;"><a class="item" href="http://www.tipue.com"><img src="../../img/head.png" style="width: 30px; height: 30px;" alt="Tipue"></a></div>
+</div>
+
+
+<!-- body -->
+
+
+<div id="container">
+<div class="grid grid-pad">
+
+<div class="col-1-1">
+
+<div class="block">
+<div style="padding: 30px;">
+
+<div style="float: left;"><input type="text" id="tipue_search_input"></div>
+<div style="float: left; margin-left: 13px;"><input type="button" id="tipue_search_button"></div>
+<div id="tipue_search_content"></div>
+
+</div></div>
+
+</div>
+</div>
+
+<script>
+$(document).ready(function() {
+     $('#tipue_search_input').tipuesearch({
+          'mode': 'live',  
+          'show': 6
+     });
+});
+</script>
+
+</body>
+</html>

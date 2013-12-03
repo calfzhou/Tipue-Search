@@ -1,0 +1,8 @@
+var tipuesearch = {"pages": [
+     {"title": "Tipue Search, a site search engine jQuery plugin", "text": "Tipue Search is a site search engine jQuery plugin. It's open source and responsive.", "image": "img/radio3.png", "width": "200", "height": "200", "loc": "http://www.tipue.com/search"},
+     {"title": "Tipue drop, a search suggestion box jQuery plugin", "text": "Tipue drop is a search suggestion box jQuery plugin. It's open source and responsive.", "image": "img/club.png", "width": "200", "height": "200", "loc": "http://www.tipue.com/drop"},
+     {"title": "Tipue, a small web development studio based in North London", "text": "Tipue is a small web development studio based in North London. We've been around for over a decade.", "image": "img/radio2.png", "width": "300", "height": "228", "loc": "http://www.tipue.com"},
+     {"title": "Tipue Search, a site search engine jQuery plugin", "text": "Tipue Search is a site search engine jQuery plugin. It's open source and responsive.", "image": "img/robot.png", "width": "400", "height": "306", "loc": "http://www.tipue.com/search"},
+     {"title": "About Tipue, a small web development studio based in North London", "text": "Tipue is a small web development studio based in North London. We've been around for over a decade.", "image": "img/spectrum.png", "width": "200", "height": "200", "loc": "http://www.tipue.com/about"},
+     {"title": "About Tipue, a small web development studio based in North London", "text": "Tipue is a small web development studio based in North London. We've been around for over a decade.", "image": "img/spectrum2.png", "width": "250", "height": "365", "loc": "http://www.tipue.com/about"}
+]};
