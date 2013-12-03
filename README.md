@@ -8,7 +8,7 @@ To get started, see <http://www.tipue.com/search/>. There's a demo at <http://ww
 Documentation
 -------------
 
-There's full documentation at <http://www.tipue.com/search/docs/>
+There's full documentation at <http://www.tipue.com/search/docs/>.
 
 Copyright and license
 ---------------------
